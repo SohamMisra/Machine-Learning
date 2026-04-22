@@ -1,6 +1,6 @@
 # Machine Learning Repository
 
-Welcome to my Machine Learning repository! This collection contains various machine learning programs and projects exploring different algorithms, techniques, and applications.
+Welcome to this Machine Learning repository! This collection contains various machine learning programs and projects exploring different algorithms, techniques, and applications.
 
 ## 📚 Overview
 
